@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  </head>
+  <body>
+
+
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+     <div class="position-relative">
+       <div class="position-absolute top-0 start-100 translate-middle"></div>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="file:///D:/DATA%20SISWA%20SMA/Rayner%20XI-1/produk.html">Product</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///D:/DATA%20SISWA%20SMA/Rayner%20XI-1/kontak.html">Contact Us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///D:/DATA%20SISWA%20SMA/Rayner%20XI-1/index.html">Home</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+</nav>
+<section id="Product">
+
+    
+ <h4>Who we are:</h4>
+     <h6> <p style="color: rgb(180, 128, 15);"> <strong> Selling hats since 1978 </strong> </p> </h6>
+      <h6>We are a family owned business with a reputable history and the highest of quality hats.</h6>
+      <ol>
+
+
+        <img src="https://drive.google.com/thumbnail?
+id=1irslteS0utq9Ztk1ih4rd8A8q4i9Lc-T&sz=w2000" class="rounded float-start" alt="...">
+<img src="https://drive.google.com/thumbnail?
+id=1SIrBFW0RrAf9UrPMxfIoYL3SF5SOZ3sJ&sz=w2000" alt="..">
+<img src="https://drive.google.com/thumbnail?
+id=1laqrlQMf0JmGdAsf7TBeHveFNcTMFWqg&sz=w2000" class="rounded mx-auto d-block" alt="...">
+
+
+            <div class="container text-center">
+  <div class="row g-2">
+    <div class="col-6">
+      <div class="p-3">
+        <div class="card">
+  <div class="card-body">From: Jeremy Benson Leonard</div>
+<i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i>
+<h7>These hats are goated</h7>
+  </div>
+</div>
+    </div>
+    <div class="col-6">
+      <div class="p-3">
+        <div class="card">
+ <div class="card-body">From: Jeremy Benson Leonard</div>
+<i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i>
+<h7>These hats are goated</h7>
+  </div>
+</div>
+    </div>
+    <div class="col-6">
+      <div class="p-3">
+        <div class="card">
+<div class="card-body">From: Jeremy Benson Leonard</div>
+<i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i>
+<h7>These hats are goated</h7>
+  </div>
+</div>
+
+    </div>
+    <div class="col-6">
+      <div class="p-3">
+        <div class="card">
+<div class="card-body">From: Jeremy Benson Leonard</div>
+<i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i>
+<h7>These hats are goated</h7>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+
+
+ <div class="container text-center">
+  <script src="https://kit.fontawesome.com/597adb3636.js"
+crossorigin="anonymous"></script>
+ <a class="btn btn-primary" href="https://www.instagram.com"
+role="button" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+ <a class="btn btn-primary" href="https://www.twitter.com"
+role="button" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+<a class="btn btn-primary" href="https://www.facebook.com"
+role="button" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+</div>
+
+
+     <script    
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  </body>
