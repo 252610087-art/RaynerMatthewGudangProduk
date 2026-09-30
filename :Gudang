@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+     <div class="position-relative">
+       <div class="position-absolute top-0 start-100 translate-middle"></div>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="file:///D:/DATA%20SISWA%20SMA/Rayner%20XI-1/index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///D:/DATA%20SISWA%20SMA/Rayner%20XI-1/kontak.html">Contact Us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="file:///D:/DATA%20SISWA%20SMA/Rayner%20XI-1/tentang.html">About Us</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+</nav>
+  <section id="Pricing">
+    <h3><b>Product and Sending</b></h3>
+     <h6> <strong> Pick the desired hat and check the estimated delivery time. </strong> </p> </h6>
+     <h5><b>All Hat Variants</b></h5>
+      <h6>Three Well made and Well crafted hats fitted to multiple styles and sizes for sale. Suited for day-to-day activities and use at an affordable price.</h6>
+      <ol>
+<table class="table">
+  <thead>
+    <tr>
+      <tr class="table-primary"> 
+      <th scope="col">Model</th>
+      <th scope="col">Material</th>
+      <th scope="col">Price</th>
+      <th scope="col">Reversible</th>
+    </tr>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Cowboy</th>
+      <td>Leather</td>
+      <td>Rp 120.000</td>
+       <td class="table-success">Yes</td>
+    </tr>
+    <tr>
+      <th scope="row">Bucket</th>
+      <td>Linen</td>
+      <td>Rp 120.000</td>
+          <td class="table-danger">No</td>
+    </tr>
+    <tr>
+      <th scope="row">Fedora</th>
+      <td>Corduroy</td>
+      <td>Rp 120.000</td>
+        <td class="table-success">Yes</td>
+    </tr>
+  </tbody>
+</table>
+</section>
+  <section id="Delivery">
+ <h3>Extimated Delivery Time</h3>
+      <h6>Orders are processed within 1–24 hours after payment is confirmed. Choose the shipping method that best suits your needs.</h6>
+      <ol>
+<table class="table">
+  <thead>
+    <tr>
+       <tr class="table-primary"> 
+      <th scope="col">Expedition</th>
+      <th scope="col">Estimation</th>
+      <th scope="col">Fee</th>
+    </tr>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">JNE Regular</th>
+      <td>2-4 Days</td>
+      <td>Rp 15.000</td>
+    </tr>
+    <tr>
+      <th scope="row">J&T Express</th>
+      <td>1-3 Days</td>
+      <td>Rp 17.000</td>
+    </tr>
+    <tr>
+      <th scope="row">Instant (Gojek/Grab)</th>
+      <td>Same-Day</td>
+      <td>Rp 25.000</td>
+    </tr>
+  </tbody>
+</table>
+ <h6> <p style="color: rgb(128, 128, 128);"><i>*Estimation is reliant depending area location.</i></p> </h6>
+</section>
+ <div class="container text-center">
+  <script src="https://kit.fontawesome.com/597adb3636.js"
+crossorigin="anonymous"></script>
+ <a class="btn btn-primary" href="https://www.instagram.com"
+role="button" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+ <a class="btn btn-primary" href="https://www.twitter.com"
+role="button" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+<a class="btn btn-primary" href="https://www.facebook.com"
+role="button" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+</div>
+
+
+    <script    
+src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  </body>
